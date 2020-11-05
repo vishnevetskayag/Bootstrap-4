@@ -60,10 +60,6 @@ body{
     min-height: 300px;
 }
 
-.modal-content {
-    color: #0f0f0f;
-}
-
 #carouselButton {
     right: 0px;
     position: absolute;
